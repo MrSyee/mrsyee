@@ -1,11 +1,3 @@
-### 👋 Welcome!
-Machine Learning Research Engineer and Software Developer
-### 🔭 I’m currently working on
-- [Medipixel](https://www.medipixel.io/) since 2019
-### 🌱 Interests
-- Python (Pytorch, Tensorflow)
-- Reinforcement Learning
-
 <div align=center>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khsyee@gmail.com)](mailto:khsyee@gmail.com)
@@ -14,3 +6,11 @@ Machine Learning Research Engineer and Software Developer
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mrsyee.github.io/)](https://mrsyee.github.io/) 
 
 </div>
+
+### 👋 Welcome!
+Machine Learning Research Engineer and Software Developer
+### 🔭 I’m currently working on
+- [Medipixel](https://www.medipixel.io/) since 2019
+### 🌱 Interests
+- Python (Pytorch, Tensorflow)
+- Reinforcement Learning
