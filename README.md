@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Welcome!
+Machine Learning Research Engineer and Software Developer
+### 🔭 I’m currently working on
+- [Medipixel](https://www.medipixel.io/) since 2019
+### 🌱 Interests
+- Python (Pytorch, Tensorflow)
+- Reinforcement Learning
 
-<!--
-**MrSyee/mrsyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khsyee@gmail.com)](mailto:khsyee@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyunghwan-kim-0739a314a/)](https://www.linkedin.com/in/kyunghwan-kim-0739a314a/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/blue2856)](https://www.facebook.com/blue2856)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mrsyee.github.io/)](https://mrsyee.github.io/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
