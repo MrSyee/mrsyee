@@ -8,7 +8,7 @@
 </div>
 
 ### 👋 Welcome!
-Machine Learning Research Engineer and Software Developer
+- Machine Learning Research Engineer and Software Developer
 ### 🔭 I’m currently working on
 - [Medipixel](https://www.medipixel.io/) since 2019
 ### 🌱 Interests
