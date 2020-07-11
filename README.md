@@ -15,3 +15,4 @@
 ### 🌱 Interests
 - Python (Pytorch, Tensorflow)
 - Reinforcement Learning
+- Co-working with git, Mentoring, Managing Team
