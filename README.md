@@ -7,7 +7,7 @@
 
 </div>
 
-### 👋 Welcome!
+### 👋 Welcome! I'm Kyunghwan Kim.
 - Deep Learning Research Engineer and Software Developer
 ### 🔭 I’m currently working on
 - [Medipixel](https://www.medipixel.io/) since 2019
@@ -15,4 +15,7 @@
 ### 🌱 Interests
 - Python (Pytorch, Tensorflow)
 - Reinforcement Learning
-- Co-working with git, Mentoring, Managing Team
+- Co-working with git
+- Soft-skils: Mentoring, Managing Team
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsyee&show_icons=true" alt="MrSyee"/></p>
