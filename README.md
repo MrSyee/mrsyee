@@ -9,11 +9,13 @@
 - Deep Learning Research Engineer and Software Developer
 - 📫 How to reach me **khsyee@gmail.com**
 ### 🔭 I’m currently working on
-- [Medipixel](https://www.medipixel.io/) since 2019
+- [Onepredict](https://onepredict.ai/) (Jun 2021 ~ Present)
+- [Medipixel](https://www.medipixel.io/) (Jan 2019 ~ Jun 2021)
   - Working on an automatic surgical manipulator project with Deep Reinforcement Learning methods.
 ### 🌱 Interests
 - Python (Pytorch, Tensorflow)
 - Reinforcement Learning
+- Data analysis and ML modeling
 - Co-working with git
 - Soft-skils: Mentoring, Managing Team
 
