@@ -6,16 +6,18 @@
 </div>
 
 ### 👋 Welcome! I'm Kyunghwan Kim.
-- Deep Learning Research Engineer and Software Developer
+- Machine Learning Engineer and Software Developer
 - 📫 How to reach me **khsyee@gmail.com**
 ### 🔭 I’m currently working on
-- [Onepredict](https://onepredict.ai/) (Jun 2021 ~ Present)
+- [Annotaion AI](https://www.annotation-ai.com/) (Aug 2022 ~ Present)
+- [Onepredict](https://onepredict.ai/) (Jun 2021 ~ Aug 2022)
 - [Medipixel](https://www.medipixel.io/) (Jan 2019 ~ Jun 2021)
   - Working on an automatic surgical manipulator project with Deep Reinforcement Learning methods.
 ### 🌱 Interests
 - Python (Pytorch, Tensorflow)
 - Reinforcement Learning
 - Data analysis and ML modeling
+- MLOps System Architecturing
 - Co-working with git
 - Soft-skils: Mentoring, Managing Team
 
