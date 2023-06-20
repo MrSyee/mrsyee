@@ -25,7 +25,7 @@
 ### 🌱 Interests
 - Python, Golang
 - API service w/ Deep learning model.
-- ML modeling: Computer Vision, Reinforcement Learning, NLP
+- ML/DL modeling: Computer Vision, Reinforcement Learning, NLP
 - Co-working with git
 - Soft-skils: Mentoring, Managing Team
 
