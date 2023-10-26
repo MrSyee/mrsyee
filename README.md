@@ -9,7 +9,9 @@
 - Machine Learning Engineer and Software Developer
 - 📫 How to reach me **khsyee@gmail.com**
 ### 🔭 I’m currently working on
-- [Annotaion AI](https://www.annotation-ai.com/) (Aug 2022 ~ Present)
+- Smilegate (Oct 2023 ~ Present)
+  - Working on AI API service using generative models.
+- [Annotaion AI](https://www.annotation-ai.com/) (Aug 2022 ~ Aug 2023)
   - Working on API service for image processing features based on deep learning models.
   - Implemented applications of state-of-the-art computer vision foundation models.
   - Served fast and scalable ML model w/ Triton.
